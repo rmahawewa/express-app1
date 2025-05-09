@@ -1,0 +1,23 @@
+{
+  "name": "express-app1",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=Lr9WUkeYSA8&amp;list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU&amp;index=6",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmahawewa/express-app1.git"
+  },
+  "author": "Ravini Mahawewa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmahawewa/express-app1/issues"
+  },
+  "homepage": "https://github.com/rmahawewa/express-app1#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
